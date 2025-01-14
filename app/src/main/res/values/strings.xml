@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">travelApp</string>
+    <string name="log_in">Log In</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click To Login</string>
+    <string name="click_to_register">Click To Register</string>
+    <string name="logout">Logout</string>
+    <string name="home">home</string>
+    <string name="signout">signoutlogo</string>
+    <string name="signoutlogo">signoutlogo</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="trips">My Trips</string>
+    <string name="nav_open">Open Navigation Drawer</string>
+    <string name="nav_close">Close Navigation Drawer</string>
+</resources>
